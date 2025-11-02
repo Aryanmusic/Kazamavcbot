@@ -1,6 +1,6 @@
+pytgcalls==3.0.0.dev22
 pyrogram==2.0.106
 tgcrypto
-git+https://github.com/pytgcalls/pytgcalls@dev
-ffmpeg-python
 python-dotenv
+ffmpeg-python
 asyncio
