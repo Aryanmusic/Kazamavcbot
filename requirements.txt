@@ -1,4 +1,4 @@
-git+https://github.com/MarshalX/tgcalls.git
+pytgcalls==3.0.0.dev22
 pyrogram==2.0.106
 tgcrypto
 python-dotenv
